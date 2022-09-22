@@ -1,0 +1,16 @@
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.exe
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.deps.json
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.runtimeconfig.json
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.runtimeconfig.dev.json
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.dll
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\ref\07.TruckTour.dll
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\bin\Debug\net5.0\07.TruckTour.pdb
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.csproj.AssemblyReference.cache
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.AssemblyInfoInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.AssemblyInfo.cs
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.csproj.CoreCompileInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.dll
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\ref\07.TruckTour.dll
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.pdb
+D:\Documents\C# Advanced\StacksAndQueues\07.TruckTour\obj\Debug\net5.0\07.TruckTour.genruntimeconfig.cache

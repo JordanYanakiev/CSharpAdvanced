@@ -1,0 +1,16 @@
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.exe
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.deps.json
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.runtimeconfig.json
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.runtimeconfig.dev.json
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.dll
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\ref\09.SimpleTextEditor.dll
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\bin\Debug\net5.0\09.SimpleTextEditor.pdb
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.csproj.AssemblyReference.cache
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.AssemblyInfo.cs
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.dll
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\ref\09.SimpleTextEditor.dll
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.pdb
+D:\Documents\C# Advanced\StacksAndQueues\09.SimpleTextEditor\obj\Debug\net5.0\09.SimpleTextEditor.genruntimeconfig.cache

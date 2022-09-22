@@ -1,0 +1,16 @@
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\08.BalancedParentheses.exe
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\08.BalancedParentheses.deps.json
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\08.BalancedParentheses.runtimeconfig.json
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\08.BalancedParentheses.runtimeconfig.dev.json
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\08.BalancedParentheses.dll
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\ref\08.BalancedParentheses.dll
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\bin\Debug\net5.0\08.BalancedParentheses.pdb
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.csproj.AssemblyReference.cache
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.AssemblyInfoInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.AssemblyInfo.cs
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.dll
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\ref\08.BalancedParentheses.dll
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.pdb
+D:\Documents\C# Advanced\StacksAndQueues\08.BalancedParentheses\obj\Debug\net5.0\08.BalancedParentheses.genruntimeconfig.cache

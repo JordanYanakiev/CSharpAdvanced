@@ -1,0 +1,16 @@
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.exe
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.deps.json
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.runtimeconfig.json
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.runtimeconfig.dev.json
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.dll
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\ref\01.BasicStackOperations.dll
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\bin\Debug\net5.0\01.BasicStackOperations.pdb
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.csproj.AssemblyReference.cache
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.AssemblyInfo.cs
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.dll
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\ref\01.BasicStackOperations.dll
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.pdb
+D:\Documents\C# Advanced\StacksAndQueues\01.BasicStackOperations\obj\Debug\net5.0\01.BasicStackOperations.genruntimeconfig.cache

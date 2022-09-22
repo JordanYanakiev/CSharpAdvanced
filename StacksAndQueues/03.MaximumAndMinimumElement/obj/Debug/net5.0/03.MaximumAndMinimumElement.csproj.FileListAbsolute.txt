@@ -1,0 +1,16 @@
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\03.MaximumAndMinimumElement.exe
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\03.MaximumAndMinimumElement.deps.json
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\03.MaximumAndMinimumElement.runtimeconfig.json
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\03.MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\03.MaximumAndMinimumElement.dll
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\ref\03.MaximumAndMinimumElement.dll
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\bin\Debug\net5.0\03.MaximumAndMinimumElement.pdb
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.dll
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\ref\03.MaximumAndMinimumElement.dll
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.pdb
+D:\Documents\C# Advanced\StacksAndQueues\03.MaximumAndMinimumElement\obj\Debug\net5.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
