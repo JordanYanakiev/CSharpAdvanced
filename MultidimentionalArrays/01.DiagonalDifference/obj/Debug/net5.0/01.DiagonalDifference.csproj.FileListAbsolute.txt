@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.exe
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.deps.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.runtimeconfig.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\ref\01.DiagonalDifference.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.pdb
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\ref\01.DiagonalDifference.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.pdb
+C:\Users\Johny\source\repos\MultidimentionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.genruntimeconfig.cache

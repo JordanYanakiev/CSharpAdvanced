@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\04.MatrixShuffling.exe
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\04.MatrixShuffling.deps.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\04.MatrixShuffling.runtimeconfig.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\04.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\04.MatrixShuffling.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\ref\04.MatrixShuffling.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\bin\Debug\net5.0\04.MatrixShuffling.pdb
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\ref\04.MatrixShuffling.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.pdb
+C:\Users\Johny\source\repos\MultidimentionalArrays\04.MatrixShuffling\obj\Debug\net5.0\04.MatrixShuffling.genruntimeconfig.cache

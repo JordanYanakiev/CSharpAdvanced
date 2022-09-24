@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\07.KnightsGame.exe
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\07.KnightsGame.deps.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\07.KnightsGame.runtimeconfig.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\07.KnightsGame.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\07.KnightsGame.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\ref\07.KnightsGame.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\bin\Debug\net5.0\07.KnightsGame.pdb
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.AssemblyInfo.cs
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\ref\07.KnightsGame.dll
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.pdb
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.genruntimeconfig.cache
+C:\Users\Johny\source\repos\MultidimentionalArrays\07.KnightsGame\obj\Debug\net5.0\07.KnightsGame.csproj.AssemblyReference.cache
