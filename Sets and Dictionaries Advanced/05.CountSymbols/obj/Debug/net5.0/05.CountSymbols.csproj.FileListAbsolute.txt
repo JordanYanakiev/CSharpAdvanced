@@ -1,0 +1,15 @@
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.exe
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.deps.json
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.runtimeconfig.json
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.runtimeconfig.dev.json
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.dll
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\ref\05.CountSymbols.dll
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.pdb
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.AssemblyInfoInputs.cache
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.AssemblyInfo.cs
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.dll
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\ref\05.CountSymbols.dll
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.pdb
+D:\Documents\C# Advanced Codes\Sets and Dictionaries Advanced\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.genruntimeconfig.cache
