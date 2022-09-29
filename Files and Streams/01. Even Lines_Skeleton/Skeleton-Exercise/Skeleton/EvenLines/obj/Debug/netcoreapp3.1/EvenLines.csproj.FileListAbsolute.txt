@@ -1,0 +1,14 @@
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.AssemblyReference.cache

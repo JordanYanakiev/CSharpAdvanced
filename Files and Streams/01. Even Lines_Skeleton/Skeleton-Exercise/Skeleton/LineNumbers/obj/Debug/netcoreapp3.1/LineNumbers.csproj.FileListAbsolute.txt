@@ -1,0 +1,14 @@
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

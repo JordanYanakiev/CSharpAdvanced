@@ -1,0 +1,14 @@
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.AssemblyReference.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\DOWNLOADS\Other\C# Advanced Exercises\Files and Streams\01. Even Lines_Skeleton\Skeleton-Exercise\Skeleton\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache
